@@ -10,4 +10,5 @@ Planned updates:
 - Colouring in Desmos
 - Bug fixes
 
-(Write-up coming soon!)
+Link to write up:
+https://docs.google.com/document/d/1j0o7m25kAIhfEHQV-1Tjx-8UMxiPokZCWDh-DzwEmsM/edit?usp=sharing
